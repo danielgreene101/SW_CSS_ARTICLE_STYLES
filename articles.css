@@ -1,0 +1,40 @@
+.one {
+    background-color: aliceblue;
+    font-family: cursive, sans-serif;
+    font: 3em;
+    color: green;
+    line-height: 2em;
+    padding: 0px;
+    border: dotted;
+    border-radius: 40%;
+}
+.two {
+    background-color: black;
+    font-family: fantasy, sans-serif;
+    font: .5em;
+    color: white;
+    line-height: 8em;
+    padding: 40px 20px 30px 100px;
+    border: solid;
+    border-radius: 10%;
+}
+.three {
+    background-color: darkgreen;
+    font-family: serif, sans-serif;
+    font: 5em;
+    color: maroon;
+    line-height: .1em;
+    padding: 20px 80px;
+    border: dashed;
+    border-radius: 100%;
+}
+.four{
+    background-color: magenta;
+    font-family: sans-serif;
+    font: 8em;
+    color: yellow;
+    line-height: 7em;
+    padding: 90px 95px;
+    border: solid;
+    border-radius: 60%;
+}
